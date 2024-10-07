@@ -8,5 +8,5 @@
 - 📄 Fun fact, i love origami and I'm always making them when I'm not busy.
 - ♂️  Pronouns: He/him; I also like She/her.
 - 🔰 I'm still new to Github
-- 
-![videopara por no git editado](https://github.com/user-attachments/assets/559b9c2a-91ad-4df2-a773-1420b2368acc)
+
+![videopara por no git editado (online-video-cutter com) (1)](https://github.com/user-attachments/assets/44607382-cebc-4f04-b6aa-16245ea8d7ed)
