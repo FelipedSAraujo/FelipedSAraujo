@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello players (☞ﾟヮﾟ)☞
 
-- 🌐 Today, I work with backend
-- 👾 I'm studying Python, I love AI
-- 🤔 I’m looking for help with ...
-- 📝 I'm in the first year of high school (I prefer the exact ones)
-- ♟️ The most liked games, is strategy: Shattered pixel Dungeon, Xadrez, Wild rift, League of legends
-- ♂️ Pronouns: He/him
-- 📄 Fun fact: I love origami, I'm always making them when I'm not doing anything
+- 🌐 Today, I work with backend development.
+- 👾 I'm studying Python and I love AI.
+- ⛩️ I like anime; my favorites are JoJo pt4, Chainsaw Man pt2, and the Blue Lock manga.
+- 📝 I'm in my first year of high school (I prefer the specifics).
+- ♟️ My favorite games are strategy-based: Shattered Pixel Dungeon, Chess, Wild Rift, and League of Legends.
+- 📄 Fun fact: I love origami and I'm always making them when I'm not busy.
+- ♂️ Pronouns: He/him; I also like She/her.
